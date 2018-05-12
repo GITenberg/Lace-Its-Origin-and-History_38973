@@ -1,0 +1,25 @@
+_repo: Lace-Its-Origin-and-History_38973
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goldenberg, Samuel L.
+    gutenberg_agent_id: '39744'
+    url: http://www.gutenberg.org/2009/agents/39744
+description: ''
+gutenberg_issued: '2012-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38973'
+  lccn: '05000077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lace and lace making'
+- !lcc 'TS'
+title: Lace, Its Origin and History
+url: http://www.gutenberg.org/ebooks/38973
